@@ -1,0 +1,10 @@
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\bin\Debug\BuscarParaula.exe.config
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\bin\Debug\BuscarParaula.exe
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\bin\Debug\BuscarParaula.pdb
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.Form1.resources
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.Properties.Resources.resources
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.csproj.CoreCompileInputs.cache
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.exe
+C:\Users\Lavith\source\repos\BuscarParaula\BuscarParaula\obj\Debug\BuscarParaula.pdb

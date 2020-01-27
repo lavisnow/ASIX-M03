@@ -1,0 +1,10 @@
+C:\Users\Lavith\source\repos\Trilero\Trilero\bin\Debug\Trilero.exe.config
+C:\Users\Lavith\source\repos\Trilero\Trilero\bin\Debug\Trilero.exe
+C:\Users\Lavith\source\repos\Trilero\Trilero\bin\Debug\Trilero.pdb
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.Form1.resources
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.Properties.Resources.resources
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.csproj.CoreCompileInputs.cache
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.exe
+C:\Users\Lavith\source\repos\Trilero\Trilero\obj\Debug\Trilero.pdb

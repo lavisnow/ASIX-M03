@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Form1.resources
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Lavith\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb

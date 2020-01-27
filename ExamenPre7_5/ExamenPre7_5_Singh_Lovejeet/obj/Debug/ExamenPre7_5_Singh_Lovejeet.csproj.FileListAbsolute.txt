@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\bin\Debug\ExamenPre7_5_Singh_Lovejeet.exe.config
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\bin\Debug\ExamenPre7_5_Singh_Lovejeet.exe
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\bin\Debug\ExamenPre7_5_Singh_Lovejeet.pdb
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\obj\Debug\ExamenPre7_5_Singh_Lovejeet.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\obj\Debug\ExamenPre7_5_Singh_Lovejeet.Form1.resources
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\obj\Debug\ExamenPre7_5_Singh_Lovejeet.Properties.Resources.resources
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\obj\Debug\ExamenPre7_5_Singh_Lovejeet.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\obj\Debug\ExamenPre7_5_Singh_Lovejeet.exe
+C:\Users\Lavith\source\repos\ExamenPre7_5_Singh_Lovejeet\ExamenPre7_5_Singh_Lovejeet\obj\Debug\ExamenPre7_5_Singh_Lovejeet.pdb

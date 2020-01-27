@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\bin\Debug\ThreeInRow.exe.config
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\bin\Debug\ThreeInRow.exe
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\bin\Debug\ThreeInRow.pdb
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\obj\Debug\ThreeInRow.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\obj\Debug\ThreeInRow.Form1.resources
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\obj\Debug\ThreeInRow.Properties.Resources.resources
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\obj\Debug\ThreeInRow.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\obj\Debug\ThreeInRow.exe
+C:\Users\Lavith\source\repos\ThreeInRow\ThreeInRow\obj\Debug\ThreeInRow.pdb

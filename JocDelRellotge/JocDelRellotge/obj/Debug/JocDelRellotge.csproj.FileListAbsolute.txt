@@ -1,0 +1,10 @@
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\bin\Debug\JocDelRellotge.exe.config
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\bin\Debug\JocDelRellotge.exe
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\bin\Debug\JocDelRellotge.pdb
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.Form1.resources
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.Properties.Resources.resources
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.csproj.CoreCompileInputs.cache
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.exe
+C:\Users\Lavith\source\repos\JocDelRellotge\JocDelRellotge\obj\Debug\JocDelRellotge.pdb

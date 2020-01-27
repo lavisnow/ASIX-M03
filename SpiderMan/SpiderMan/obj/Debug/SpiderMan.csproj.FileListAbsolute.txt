@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\bin\Debug\SpiderMan.exe.config
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\bin\Debug\SpiderMan.exe
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\bin\Debug\SpiderMan.pdb
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\obj\Debug\SpiderMan.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\obj\Debug\SpiderMan.Form1.resources
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\obj\Debug\SpiderMan.Properties.Resources.resources
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\obj\Debug\SpiderMan.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\obj\Debug\SpiderMan.exe
+C:\Users\Lavith\source\repos\SpiderMan\SpiderMan\obj\Debug\SpiderMan.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\Lavith\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Lavith\source\repos\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Lavith\source\repos\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\Lavith\source\repos\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\Lavith\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Lavith\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb

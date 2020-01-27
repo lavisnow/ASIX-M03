@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\StanLee\StanLee\bin\Debug\StanLee.exe.config
+C:\Users\Lavith\source\repos\StanLee\StanLee\bin\Debug\StanLee.exe
+C:\Users\Lavith\source\repos\StanLee\StanLee\bin\Debug\StanLee.pdb
+C:\Users\Lavith\source\repos\StanLee\StanLee\obj\Debug\StanLee.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\StanLee\StanLee\obj\Debug\StanLee.Form1.resources
+C:\Users\Lavith\source\repos\StanLee\StanLee\obj\Debug\StanLee.Properties.Resources.resources
+C:\Users\Lavith\source\repos\StanLee\StanLee\obj\Debug\StanLee.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\StanLee\StanLee\obj\Debug\StanLee.exe
+C:\Users\Lavith\source\repos\StanLee\StanLee\obj\Debug\StanLee.pdb

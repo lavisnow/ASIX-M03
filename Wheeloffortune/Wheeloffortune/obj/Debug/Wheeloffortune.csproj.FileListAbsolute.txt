@@ -1,0 +1,10 @@
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.Form1.resources
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.Properties.Resources.resources
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.csproj.CoreCompileInputs.cache
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.exe.config
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.exe
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.pdb
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.exe
+C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\bin\Debug\Penjat2.0.exe.config
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\bin\Debug\Penjat2.0.exe
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\bin\Debug\Penjat2.0.pdb
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2.0.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2._0.Form1.resources
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2._0.Properties.Resources.resources
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2.0.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2.0.csproj.CoreCompileInputs.cache
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2.0.exe
+C:\Users\Lavith\source\repos\Penjat2.0\Penjat2.0\obj\Debug\Penjat2.0.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\bin\Debug\BuscarTresor.exe.config
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\bin\Debug\BuscarTresor.exe
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\bin\Debug\BuscarTresor.pdb
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\obj\Debug\BuscarTresor.csprojAssemblyReference.cache
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\obj\Debug\BuscarTresor.Form1.resources
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\obj\Debug\BuscarTresor.Properties.Resources.resources
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\obj\Debug\BuscarTresor.csproj.GenerateResource.cache
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\obj\Debug\BuscarTresor.exe
+C:\Users\Lavith\source\repos\lavisnow\ASIX-M03\BuscarTresor\BuscarTresor\obj\Debug\BuscarTresor.pdb

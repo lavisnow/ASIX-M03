@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ExamenUF2
+namespace M3UF2Examen
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace ExamenUF2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormPaintGame());
         }
     }
 }

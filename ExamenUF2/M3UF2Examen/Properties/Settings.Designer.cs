@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ExamenUF2.Properties
+namespace M3UF2Examen.Properties
 {
 
 

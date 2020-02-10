@@ -13,6 +13,7 @@ namespace M3UF2Examen
     public partial class FormPaintGame : Form
     {
         string[,] tauler = new string[6, 10];
+        string[] freestyle = new string[5];
         int x;
         int y;
         int punts = 0;
@@ -120,6 +121,18 @@ namespace M3UF2Examen
 
         }
 
+        private void checkfreestyle() {
+            int chk = 0;
+            if (chkFreestyle.Checked) {
+               // freestyle[]
+                chk++;
+
+
+            
+            }
+        
+        }
+
 
         private void btColoca_Click(object sender, EventArgs e)
         {
@@ -166,9 +179,7 @@ namespace M3UF2Examen
                 {
                     punt();
                     tauler[x, y] = "[O]";
-                    y--;
-                    tauler[x, y] = "[#]";
-                    y++;
+                    tauler[x, y -1] = "[#]";
 
                 }
                 else
@@ -184,9 +195,7 @@ namespace M3UF2Examen
 
                         punt();
                         tauler[x, y] = "[O]";
-                        y--;
-                        tauler[x, y] = "[#]";
-                        y++;
+                        tauler[x, y -1] = "[#]";
 
                     }
 
@@ -217,9 +226,7 @@ namespace M3UF2Examen
                 {
                     punt();
                     tauler[x, y] = "[O]";
-                    y++;
-                    tauler[x, y] = "[#]";
-                    y--;
+                    tauler[x, y +1] = "[#]";
 
                 }
                 else
@@ -235,9 +242,7 @@ namespace M3UF2Examen
 
                         punt();
                         tauler[x, y] = "[O]";
-                        y++;
-                        tauler[x, y] = "[#]";
-                        y--;
+                        tauler[x, y +1] = "[#]";
 
                     }
 
@@ -267,10 +272,7 @@ namespace M3UF2Examen
                 {
                     punt();
                     tauler[x, y] = "[O]";
-                    x++;
-                    tauler[x, y] = "[#]";
-                    x--;
-
+                    tauler[x +1, y] = "[#]";
                 }
                 else
                 {
@@ -282,13 +284,9 @@ namespace M3UF2Examen
                     }
                     else
                     {
-
                         punt();
                         tauler[x, y] = "[O]";
-                        x++;
-                        tauler[x, y] = "[#]";
-                        x--;
-
+                        tauler[x +1, y] = "[#]";
                     }
 
                 }
@@ -317,9 +315,7 @@ namespace M3UF2Examen
                 {
                     punt();
                     tauler[x, y] = "[O]";
-                    x--;
-                    tauler[x, y] = "[#]";
-                    x++;
+                    tauler[x -1, y] = "[#]";
 
                 }
                 else
@@ -332,13 +328,9 @@ namespace M3UF2Examen
                     }
                     else
                     {
-
                         punt();
                         tauler[x, y] = "[O]";
-                        x--;
-                        tauler[x, y] = "[#]";
-                        x++;
-
+                        tauler[x -1, y] = "[#]";
                     }
 
                 }

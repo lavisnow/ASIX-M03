@@ -36,6 +36,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.bt_count = new System.Windows.Forms.Button();
             this.bt_name = new System.Windows.Forms.Button();
+            this.bt_triangle = new System.Windows.Forms.Button();
+            this.bt_tri_gen = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // bt_new
@@ -70,15 +72,16 @@
             // 
             // tx_notepad
             // 
+            this.tx_notepad.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tx_notepad.Location = new System.Drawing.Point(12, 41);
             this.tx_notepad.Multiline = true;
             this.tx_notepad.Name = "tx_notepad";
-            this.tx_notepad.Size = new System.Drawing.Size(776, 397);
+            this.tx_notepad.Size = new System.Drawing.Size(914, 600);
             this.tx_notepad.TabIndex = 3;
             // 
             // tx_name
             // 
-            this.tx_name.Location = new System.Drawing.Point(615, 12);
+            this.tx_name.Location = new System.Drawing.Point(753, 14);
             this.tx_name.Name = "tx_name";
             this.tx_name.Size = new System.Drawing.Size(173, 20);
             this.tx_name.TabIndex = 4;
@@ -86,7 +89,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(574, 17);
+            this.label1.Location = new System.Drawing.Point(712, 19);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 5;
@@ -112,11 +115,33 @@
             this.bt_name.UseVisualStyleBackColor = true;
             this.bt_name.Click += new System.EventHandler(this.bt_name_Click);
             // 
+            // bt_triangle
+            // 
+            this.bt_triangle.Location = new System.Drawing.Point(542, 12);
+            this.bt_triangle.Name = "bt_triangle";
+            this.bt_triangle.Size = new System.Drawing.Size(75, 23);
+            this.bt_triangle.TabIndex = 8;
+            this.bt_triangle.Text = "Triangle";
+            this.bt_triangle.UseVisualStyleBackColor = true;
+            this.bt_triangle.Click += new System.EventHandler(this.bt_triangle_Click);
+            // 
+            // bt_tri_gen
+            // 
+            this.bt_tri_gen.Location = new System.Drawing.Point(432, 12);
+            this.bt_tri_gen.Name = "bt_tri_gen";
+            this.bt_tri_gen.Size = new System.Drawing.Size(104, 23);
+            this.bt_tri_gen.TabIndex = 9;
+            this.bt_tri_gen.Text = "Tri Generator";
+            this.bt_tri_gen.UseVisualStyleBackColor = true;
+            this.bt_tri_gen.Click += new System.EventHandler(this.bt_tri_gen_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(938, 653);
+            this.Controls.Add(this.bt_tri_gen);
+            this.Controls.Add(this.bt_triangle);
             this.Controls.Add(this.bt_name);
             this.Controls.Add(this.bt_count);
             this.Controls.Add(this.label1);
@@ -142,6 +167,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button bt_count;
         private System.Windows.Forms.Button bt_name;
+        private System.Windows.Forms.Button bt_triangle;
+        private System.Windows.Forms.Button bt_tri_gen;
     }
 }
 

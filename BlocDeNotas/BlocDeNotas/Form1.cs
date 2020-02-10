@@ -8,14 +8,19 @@ namespace BlocDeNotas
     {
         string[] noms;
         string fitxer_noms = "noms.txt";
+        int le; //llargada array 
+        Random rnd = new Random();
 
         public Form1()
         {
             InitializeComponent();
             nomsbebes();
+            bt_triangle.Enabled = false;
+
         }
 
-        private void nomsbebes(){
+        private void nomsbebes()
+        {
             StreamReader sr;
             sr = new StreamReader(fitxer_noms);
             int c_noms = 0;
@@ -27,7 +32,7 @@ namespace BlocDeNotas
                 c_noms++;
             }
             while (linia != null);
-
+            sr.Close();
             sr = new StreamReader(fitxer_noms);
             noms = new string[c_noms];
 
@@ -37,6 +42,7 @@ namespace BlocDeNotas
 
                 noms[i] = sr.ReadLine();
             }
+            sr.Close();
         }
 
         private void bt_new_Click(object sender, EventArgs e)
@@ -59,7 +65,7 @@ namespace BlocDeNotas
             sr = new StreamReader(tx_name.Text);
             tx_notepad.Text = sr.ReadToEnd();
             sr.Close();
-            
+
         }
 
         private void bt_count_Click(object sender, EventArgs e)
@@ -76,13 +82,74 @@ namespace BlocDeNotas
             while (linia != null);
 
             tx_notepad.Text = compt.ToString();
+            sr.Close();
         }
 
         private void bt_name_Click(object sender, EventArgs e)
         {
-            Random rnd = new Random();
             int rand = rnd.Next(0, noms.Length);
             tx_notepad.Text = noms[rand];
+        }
+
+        private void bt_tri_gen_Click(object sender, EventArgs e)
+        {
+            StreamWriter sw = new StreamWriter(tx_name.Text);
+            for (int i = 0; i < 10; i++)
+            {
+                sw.WriteLine(rnd.Next(0, 20) + ";" + rnd.Next(0, 20) + ";" + rnd.Next(0, 20));
+                le++;
+            }
+            sw.Close();
+
+            bt_triangle.Enabled = true;
+        }
+
+        private void bt_triangle_Click(object sender, EventArgs e)
+        {
+            //Llegim el fitxer
+            StreamReader sr = new StreamReader(tx_name.Text); ;
+            string[] a;
+            string linia;
+            int[,] m = new int[le, 4];
+            int i = 0;
+
+            while (!sr.EndOfStream)
+            {
+                linia = sr.ReadLine();
+                a = linia.Split(';');
+                m[i, 0] = int.Parse(a[0]);
+                m[i, 1] = int.Parse(a[1]);
+                m[i, 2] = int.Parse(a[2]);
+                i++;
+            }
+            sr.Close();
+
+            //Escrivim al fitxer
+            StreamWriter sw = new StreamWriter(tx_name.Text);
+
+            for (int j = 0; j < m.GetLength(0); j++)
+            {
+
+                for (int h = 0; h < m.GetLength(1); h++)
+                {
+                    if (m[j, 0] + m[j, 1] > m[j, 2] && m[j, 2] + m[j, 0] > m[j, 1] && m[j, 1] + m[j, 2] > m[j, 0])
+                        m[j, 3] = 0;
+                    else
+                        m[j, 3] = 1;
+                }
+                if (m[j, 3] == 0)
+                {
+                    sw.WriteLine(m[j, 0] + ";" + m[j, 1] + ";" + m[j, 2] + "--> Correcte");
+                }
+                else
+                    sw.WriteLine(m[j, 0] + ";" + m[j, 1] + ";" + m[j, 2] + "-- > Incorrecte");
+
+            }
+            sw.Close();
+
+            sr = new StreamReader(tx_name.Text);
+            tx_notepad.Text = sr.ReadToEnd();
+            sr.Close();
         }
     }
 }

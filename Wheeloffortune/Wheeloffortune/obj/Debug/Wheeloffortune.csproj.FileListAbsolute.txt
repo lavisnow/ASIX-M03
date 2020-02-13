@@ -8,3 +8,12 @@ C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffort
 C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.pdb
 C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.exe
 C:\Users\Lavith\source\repos\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.pdb
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.exe.config
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.exe
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\bin\Debug\Wheeloffortune.pdb
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.csprojAssemblyReference.cache
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.Form1.resources
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.Properties.Resources.resources
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.csproj.GenerateResource.cache
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.exe
+C:\Users\lavji\Documents\GitHub\ASIX-M03\Wheeloffortune\Wheeloffortune\obj\Debug\Wheeloffortune.pdb

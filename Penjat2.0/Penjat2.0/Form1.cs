@@ -30,9 +30,9 @@ namespace Penjat2._0
             {
 
                 hiddenword = hiddenword + "#";
-                textBox1.Text = hiddenword;
 
             }
+            textBox1.Text = hiddenword;
 
             textBox1.Enabled = false;
             button1.Enabled = false;
@@ -53,7 +53,6 @@ namespace Penjat2._0
 
                 if (cw.Equals(letter))
                 {
-                    ch = letter;
                     winlose = true;
                     textBox1.Text = textBox1.Text + cw;
 

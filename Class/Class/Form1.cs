@@ -1,13 +1,13 @@
 ﻿namespace Class
 {
     using System;
-    using System.Windows.Forms;
     using System.IO;
+    using System.Windows.Forms;
 
     public partial class Form1 : Form
     {
-        int _pos = 0;
-        Computer[] _PCs = new Computer[3];
+        private int _pos = 0;
+        private Computer[] _PCs = new Computer[3];
 
         public Form1()
         {
@@ -29,7 +29,6 @@
         private void bt_save_Click(object sender, EventArgs e)
         {
             _PCs[_pos] = new Computer(tx_cpu.Text, tx_ram.Text, tx_hdd.Text, tx_gpu.Text);
-
         }
 
         private void bt_right_Click(object sender, EventArgs e)
@@ -39,7 +38,6 @@
             if (_pos > 2)
                 _pos = 0;
             save();
-
         }
 
         private void bt_left_Click(object sender, EventArgs e)
@@ -48,17 +46,61 @@
             if (_pos < 0)
                 _pos = 2;
             save();
-
         }
 
         private void bt_load_Click(object sender, EventArgs e)
         {
-            tx_spec.Text = _PCs[_pos].Print();
+            OpenFileDialog _ofd = new OpenFileDialog();
+
+            _ofd.Filter = "PCs|*.txt";
+            _ofd.Title = "Save Computers";
+            _ofd.ShowDialog();
+            String lines;
+            int i = 0;
+
+            if (_ofd.FileName != "")
+            {
+                StreamReader sr = new StreamReader(_ofd.FileName);
+
+                while (!sr.EndOfStream && i < _PCs.Length)
+                {
+                    lines = sr.ReadLine();
+                    String[] extract;
+                    if (lines.Contains("CPU: "))
+                    {
+
+                        extract = lines.Split(':');
+                        _PCs[i].CPU = extract[1];
+                    }
+                    if (lines.Contains("RAM: "))
+                    {
+
+                        extract = lines.Split(':');
+                        _PCs[i].RAM = extract[1];
+                    }
+                    if (lines.Contains("HDD: "))
+                    {
+
+                        extract = lines.Split(':');
+                        _PCs[i].HDD = extract[1];
+                    }
+                    if (lines.Contains("GPU: "))
+                    {
+
+                        extract = lines.Split(':');
+                        _PCs[i].GPU = extract[1];
+                    }
+                    if (lines.Equals(""))
+                        i++;
+
+                }
+                sr.Close();
+                save();
+            }
         }
 
         private void bt_download_Click(object sender, EventArgs e)
         {
-
             SaveFileDialog _sfd = new SaveFileDialog();
 
             _sfd.Filter = "PCs|*.txt";
@@ -67,7 +109,6 @@
 
             if (_sfd.FileName != "")
             {
-
                 StreamWriter sw = new StreamWriter(_sfd.FileName);
                 for (int i = 0; i < _PCs.Length; i++)
                 {
@@ -96,7 +137,6 @@
                 }
                 sr.Close();
             }
-            
         }
     }
 }

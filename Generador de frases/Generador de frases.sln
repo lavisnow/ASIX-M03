@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generador de frases", "Generador de frases\Generador de frases.csproj", "{687228AD-1412-4DE4-A46D-7650FF3E2B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687228AD-1412-4DE4-A46D-7650FF3E2B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687228AD-1412-4DE4-A46D-7650FF3E2B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687228AD-1412-4DE4-A46D-7650FF3E2B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687228AD-1412-4DE4-A46D-7650FF3E2B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E979A1B2-8277-43D8-9C2A-84B2F5FB99BA}
+	EndGlobalSection
+EndGlobal
